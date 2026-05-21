@@ -192,6 +192,8 @@ More details in the following link ;-)
 - [Chaos Platform](https://github.com/chaostoolkit/chaosplatform) - Chaos Engineering Platform for Everyone.
 - [Chaos Hub](https://github.com/chaostoolkit/chaoshub-archive) - Chaos Hub stands on the shoulders of the Chaos Toolkit to provide a complete, user-friendly, platform to automate and collaborate on your Chaos Engineering and Resiliency efforts.
 - [steadybit](https://www.steadybit.com/) - Chaos Engineering platform that helps to proactively reduce downtime and provide visibility into systems to detect issues
+- [Middleware](https://middleware.io/) - Full-stack observability and monitoring tool.
+
 
 ## 7. Gamedays
 
